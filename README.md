@@ -1,2 +1,2 @@
 # appScaleGenerator
-Um programa para estudos de Java que emite escalas musicais
+Um programa em fase Beta para estudos de Java que emite escalas musicais
